@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://langtang-valley-trek-cost-breakdown.pages.dev/sitemap.xml
 
 # Google Bot
 User-agent: Googlebot
